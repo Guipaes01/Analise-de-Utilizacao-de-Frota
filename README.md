@@ -46,7 +46,7 @@ O dashboard apresenta indicadores-chave (KPIs) para acompanhamento da “saúde�
 - Análises comparativas entre eficiência operacional e financeira
 
 📂 Arquivo:  
-`powerbi/Análise de Utilização de Frota.pbix`
+`Análise de Utilização de Frota.pbix`
 
 📸 Preview disponível em:  
 `images/`
